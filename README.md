@@ -6,8 +6,7 @@
 - !Photo:(profile.png)
 
 ## Application URLs
-- Personal Website: [Your Website URL]
-- Database Admin Interface: [Adminer URL]
+- Personal Website: 101.43.192.218:8080
+- Database Admin Interface: 101.43.192.218:8081
 
-## Project Description
 
